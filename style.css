@@ -4,6 +4,11 @@ img {
     width: auto\9; /* ie8 */
 }
 
+h1{
+  font-size: 40px;
+  font-family: cursive;
+}
+
 .jumbotron {
 	text-align: center;
 	background: url("http://hulubei.net/tudor/photography/photos/G/o/Golden-Gate-Bridge-5-750x500.jpg");
